@@ -1,0 +1,30 @@
+Create New Folder - Training
+
+Data Types in Java
+1. Primitive Data Type
+	a. byte 	= Size = 1 byte(8  bit) = Default value = 0 = Range = -128 to 127
+	b. short	= Size = 2 byte(16 bit) = Default value = 0 = Range = -32,786 to 32,767
+	c. int		= Size = 4 byte(32 bit) = Default value = 0 = Range = -2,147,483,648 to 2,147,483,647
+	d. long 	= Size = 8 byte(64 bit) = Default value = 0L 
+	e. float  	= Size = 4 byte(32 bit) = Default value = 0.0f
+	f. double	= Size = 8 byte(64 bit) = Default value = 0.0d 
+	g. char		= Size = 2 byte(16 bit) = Default value = blank space
+	h. boolean 	= Size = JVM dependent  = Default value = false
+2. Non-Primitive, Reference Type, Object Type
+	a. Class
+	b. Interface
+	c. Array
+	e. Collections 
+	f. String
+	g. Wrapper classes
+
+Operators in Java
+
+1. Arithmetic Operator 	: +, -, *, /, %
+2. Unary Operator 	: ++, -- 
+3. Relational Operator	: ==, !=, >, <, >=, <=
+4. Logical Operator	: &&, ||, !
+5. Bitwise Operator	: &, |, ~ 
+6. Assignment Operator 	: =, +=, -=, *=, /=
+
+Operator Precedence
