@@ -28,3 +28,36 @@ Operators in Java
 6. Assignment Operator 	: =, +=, -=, *=, /=
 
 Operator Precedence
+
+Decision Making Statements
+1. If statement
+2. If else 
+3. Nested if
+4. Switch statement
+5. Switch with String
+6. Ternary Operator
+
+Create New Project
+Employee Salary Processing System
+
+Create a Java program that calculates final salary
+Inputs
+	1. EmployeeType(F = Full Time, P = Part Time)
+	2. Experience
+	3. Base Salary
+Rules
+	1. Full Time
+		a. Experience > 10 then bonus 20%
+		b. Experience > 5 then bonus 10%
+		c. Else then bonus 5%
+	2. Part Time
+		a. Experience > 5 then bonus 8%
+		b. Else then bonus 5%
+
+Additional conditions
+	Tax
+		a. Salary > 1,00,000 then tax will be 10%
+		b. Salary > 50,000 then tax will be 5%
+		c. Else tax will be 2%
+
+Note : Use Switch Case and Nested If
